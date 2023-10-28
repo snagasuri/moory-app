@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={sampleImage} alt="Sample" />  {/* Use the imported image */}
         <p>
-          Hi nigga :D
+          Hi montu :D
         </p>
       </header>
     </div>
